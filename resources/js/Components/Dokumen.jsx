@@ -184,7 +184,7 @@ const Dokumen = () => {
                                             }
                                             className="text-xs sm:text-sm px-2 sm:px-3 py-1 bg-[#162360] text-white hover:bg-blue-800 rounded"
                                         >
-                                            Delete
+                                            Hapus
                                         </button>
                                     </>
                                 ) : (
